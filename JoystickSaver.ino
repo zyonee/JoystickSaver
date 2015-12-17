@@ -9,10 +9,10 @@
 #define INPUTS (6)          // How many inputs from DB9 port
 #define MOVES (20)          // How many moves for the auto movement
 
-#define kLeftPin (10)       // DB9 LEFT pin
-#define kRightPin (16)      // DB9 RIGHT pin
-#define kUpPin (14)         // DB9 UP pin
-#define kDownPin (15)       // DB9 DOWN pin
+#define kLeftPin (16)       // DB9 LEFT pin
+#define kRightPin (10)      // DB9 RIGHT pin
+#define kUpPin (15)         // DB9 UP pin
+#define kDownPin (14)       // DB9 DOWN pin
 #define kFire1Pin (A0)      // DB9 FIRE1 pin
 #define kFire2Pin (A1)      // DB9 FIRE2 pin
 
